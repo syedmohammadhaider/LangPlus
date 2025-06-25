@@ -8,5 +8,5 @@ A simple language practice app built using **React Native**. Users can enter sen
 - Clean and minimal UI.
 
 ## Screenshots
-![Screenshot 1](assets/screenshots/screenshot1.jpg)
-![Screenshot 2](assets/screenshots/screenshot2.jpg)
+<img src="assets/screenshots/screen1.png" alt="App Screenshot 1" width="300"/>
+<img src="assets/screenshots/screen2.png" alt="App Screenshot 2" width="300"/>
